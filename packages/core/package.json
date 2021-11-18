@@ -1,6 +1,6 @@
 {
-  "name": "@superset-viz-plugins/core",
-  "version": "0.1.2",
+  "name": "@libra-plugins/core",
+  "version": "0.0.1",
   "description": "Superset-viz-plugins UI core package",
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:nielsen-oss/superset-viz-plugins.git"
+    "url": "git+https://github.com/christos-kostopoulos/libra-plugins"
   },
   "keywords": [
     "superset",
