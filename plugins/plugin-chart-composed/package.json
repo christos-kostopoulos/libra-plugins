@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:nielsen-oss/superset-viz-plugins.git"
+    "url": "git+https://github.com:christos-kostopoulos/libra-plugins.git"
   },
   "keywords": [
     "superset"

@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/christos-kostopoulos/libra-plugins/issues"
   },
-  "homepage": "https://github.com/nielsen-oss/superset-viz-plugins/issues#readme",
+  "homepage": "https://github.com/christos-kostopoulos/libra-plugins/issues#readme",
   "dependencies": {
     "react": "^16.13.1"
   },
