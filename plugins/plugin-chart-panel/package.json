@@ -1,6 +1,6 @@
 {
   "name": "@libra-plugins/plugin-chart-panel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Superset Chart - Panel",
   "sideEffects": false,
   "main": "lib/index.js",
