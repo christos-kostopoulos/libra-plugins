@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/nielsen-oss/superset-viz-plugins/compare/@libra-plugins/plugin-chart-composed@0.0.4...@libra-plugins/plugin-chart-composed@0.0.5) (2021-11-18)
+
+**Note:** Version bump only for package @libra-plugins/plugin-chart-composed
+
+
+
+
+
 ## [0.0.4](https://github.com/nielsen-oss/superset-viz-plugins/compare/@libra-plugins/plugin-chart-composed@0.0.3...@libra-plugins/plugin-chart-composed@0.0.4) (2021-11-18)
 
 **Note:** Version bump only for package @libra-plugins/plugin-chart-composed
