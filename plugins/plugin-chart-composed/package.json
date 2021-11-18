@@ -27,7 +27,7 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nielsen-oss/superset-viz-plugins/iissues"
+    "url": "https://github.com/christos-kostopoulos/libra-plugins/issues"
   },
   "publishConfig": {
     "access": "public"

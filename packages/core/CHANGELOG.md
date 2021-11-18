@@ -24,4 +24,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-* basic core package lib ([5f30462](https://github.com/nielsen-oss/superset-viz-plugins/commit/5f304621fbeea6554740eb2bfd156338f772429e))
+* basic core package lib ([5f30462](https://github.com/christos-kostopoulos/libra-plugins/commit/5f304621fbeea6554740eb2bfd156338f772429e))

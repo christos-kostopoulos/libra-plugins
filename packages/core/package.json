@@ -32,7 +32,7 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nielsen-oss/superset-viz-plugins/issues"
+    "url": "https://github.com/christos-kostopoulos/libra-plugins/issues"
   },
   "homepage": "https://github.com/nielsen-oss/superset-viz-plugins/issues#readme",
   "dependencies": {
