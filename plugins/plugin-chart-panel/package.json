@@ -2,6 +2,7 @@
   "name": "@libra-plugins/plugin-chart-panel",
   "version": "0.1.0",
   "description": "Superset Chart - Panel",
+  "pluginName": "PanelChartPlugin",
   "sideEffects": false,
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -19,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apache-superset/superset-ui.git"
+    "url": "git+https://github.com:christos-kostopoulos/libra-plugins.git"
   },
   "keywords": [
     "superset"
@@ -27,9 +28,9 @@
   "author": "Superset",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/apache-superset/superset-ui/issues"
+    "url": "https://github.com/christos-kostopoulos/libra-plugins/issues"
   },
-  "homepage": "https://github.com/apache-superset/superset-ui#readme",
+  "homepage": "https://github.com/christos-kostopoulos/libra-plugins#readme",
   "publishConfig": {
     "access": "public"
   },
@@ -46,5 +47,10 @@
   "devDependencies": {
     "@types/jest": "^26.0.0",
     "jest": "^26.0.1"
+  },
+  "babel": {
+    "presets": [
+      "react-app"
+    ]
   }
 }
