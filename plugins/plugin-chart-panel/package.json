@@ -9,6 +9,14 @@
     "esm",
     "lib"
   ],
+  "scripts": {
+    "test": "jest --coverage --verbose --passWithNoTests",
+    "tdd": "NODE_ENV=test jest --watch",
+    "build": "NODE_ENV=development webpack --mode=development --colors",
+    "build:watch": "NODE_ENV=development webpack --mode=development --colors --watch",
+    "build:prod": "BABEL_ENV=production babel src -d dist --verbose --extensions \".ts,.tsx,.js,.jsx \" --ignore \"src/**/*.test.tsx\",\"src/*.test.js\",\"src/**/*.mock.js\",\"src/**/*.stories.tsx\",\"src/**/__stories__/*\",\"src/**/__mocks__/*\",\"src/**/__tests__/*\"",
+    "build:esm": "ESM=true BABEL_ENV=production babel src -d esm --verbose --extensions \".ts,.tsx,.js,.jsx \" --ignore \"src/**/*.test.tsx\",\"src/*.test.js\",\"src/**/*.mock.js\",\"src/**/*.stories.tsx\",\"src/**/__stories__/*\",\"src/**/__mocks__/*\",\"src/**/__tests__/*\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apache-superset/superset-ui.git"
